@@ -11,7 +11,7 @@ public class MainForm extends JFrame{
     public MainForm() {
 
         setContentPane(rootPanel);
-        setSize(500, 250);
+        setSize(600, 350);
         setVisible(true);
 
     }
